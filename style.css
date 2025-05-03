@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 50px;
+}
+
+#box {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+    cursor: pointer;
+    display: none;
+}
+
+#reactionTime {
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+
+#startBtn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+}
